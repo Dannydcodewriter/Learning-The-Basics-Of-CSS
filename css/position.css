@@ -1,0 +1,47 @@
+#box-1{
+    border: 1px solid;
+    width: 300px;
+    height: 300px;
+    background-color: goldenrod;
+
+    position: sticky;
+    top: 0px;
+    
+   
+   
+}
+
+#box-2{
+    border: 1px solid;
+    width: 100px;
+    height: 100px;
+    background-color: greenyellow;
+
+    /* position: relative;
+    top: 150px;
+    left: 150px; */
+    
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+#box-4{
+    border: 1px solid;
+    width: 300px;
+    height: 300px;
+    background-color: goldenrod;
+
+    position: relative;
+}
+
+#box-5{
+    border: 1px solid;
+    width: 100px;
+    height: 100px;
+    background-color: yellowgreen;
+
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
